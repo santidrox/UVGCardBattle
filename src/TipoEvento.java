@@ -1,0 +1,2 @@
+
+enum TipoEvento { PARCIALES, FERIA, BIBLIOTECA }
